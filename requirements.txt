@@ -1,0 +1,14 @@
+streamlit
+interpret
+shap
+numpy==1.23.1
+streamlit
+streamlit-shap
+tensorflow
+shapash
+shapash[report]
+klib
+feature_engine
+xgboost
+notebook
+
